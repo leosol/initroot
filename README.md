@@ -29,6 +29,13 @@ If it's your case, just look for ``initroot-*-STOCK*.cpio.gz``.
 - Stockrom padded ramdisk: initroot-xt1069-p64-STOCK.cpio.gz
 - Stockrom patched and padded ramdisk: initroot-xt1069-p64-MALICIOUS.cpio.gz
 
+## Motorola XT-1078
+- Scratch Address: 0x11000000
+- Padding: 64MB
+- Stockrom padded ramdisk: initroot-xt1078-p64-STOCK.cpio.gz
+- Stockrom patched and padded ramdisk: initroot-xt1078-p64-MALICIOUS.cpio.gz
+
+
 ## Running and cheking root access: 
   - Flashing and solving bootloops: 
   
